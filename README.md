@@ -5,7 +5,7 @@ A browser-based chord drone synth that holds rich, evolving chords in any key or
 Pick a key, mode and chord (from fifths and triads up to sevenths and ninths), and the synth sustains it as a lush drone, with a display showing the chord being played. A circle of fifths, common progressions and an 8-step sequencer let you move between chords, while two LFOs, per-voice filters, a tuned noise layer, echo and reverb keep the sound moving and textured. 
 
 # Download  
-Click Drone Chord Synth (version).html. In the window click Download RAW. Click html file to launch in your browser.
+Click *Drone Chord Synth (version).html.* In the window click *Download raw file.* Click html file to launch in your browser.
 
 # Quick Manual
 
