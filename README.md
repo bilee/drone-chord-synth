@@ -1,9 +1,10 @@
-# drone-chord-synth
+# Drone Chord Synth
+
 A browser-based chord drone synth that holds rich, evolving chords in any key or mode and shapes them with filters, LFOs, noise, echo and reverb.
 
-Pick a key, mode and chord (from fifths and triads up to sevenths and ninths), and the synth sustains it as a lush drone, with a display showing the chord being played. A circle of fifths, common progressions and an 8-step sequencer let you move between chords, while two LFOs, per-voice filters, a tuned noise layer, echo and reverb keep the sound moving and textured.
+Pick a key, mode and chord (from fifths and triads up to sevenths and ninths), and the synth sustains it as a lush drone, with a display showing the chord being played. A circle of fifths, common progressions and an 8-step sequencer let you move between chords, while two LFOs, per-voice filters, a tuned noise layer, echo and reverb keep the sound moving and textured. 
 
-# Drone Chord Synth: Quick Manual
+# Quick Manual
 
 A short guide to each section of the synth, in the order they appear on the page. Tap a section title to collapse or
 expand it.
